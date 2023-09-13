@@ -16,9 +16,8 @@
 - 🌱 I’m currently learning Java ☕
 <img width="490" height="270" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazd5aTMyeWw3OXIyeDU2ODNxOW5nd3BlZjJ3cXlwMGptZ25ud2dlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OV1bLOIWwIXRxpXlN/giphy.gif" align=right>
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Machine Learning & Data Science
-- 🎉 Fun-Fact: I ❤️ Basket and watch a lot Sci-Fi Movies🎬
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on programs
+- 🎉 Fun-Fact: I ❤️ Basket and atlethic
 
   
 ### 🖥️ My DevSetup
