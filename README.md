@@ -18,8 +18,7 @@
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
-  - 🤖 Robotics
-- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
+- 🎉 Fun-Fact: I ❤️ Basket and watch a lot Sci-Fi Movies🎬
 
   
 ### 🖥️ My DevSetup
