@@ -14,7 +14,7 @@
 ## ⚡️ A Few Quick Facts
 
 - 🌱 I’m currently learning Java ☕
-<img width="490" height="270" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazd5aTMyeWw3OXIyeDU2ODNxOW5nd3BlZjJ3cXlwMGptZ25ud2dlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OV1bLOIWwIXRxpXlN/giphy.gif" align=right>
+<img width="490" height="270" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazd5aTMyeWw3OXIyeDU2ODNxOW5nd3BlZjJ3cXlwMGptZ25ud2dlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OV1bLOIWwIXRxpXlN/giphy.gif](https://media.giphy.com/media/9B8wYztAoe1zO/source.gif)" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on programs
 - 🎉 Fun-Fact: I ❤️ Basket and atlethic
